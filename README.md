@@ -1,9 +1,11 @@
-
-  
-
-
 # SKILHARVEST-DATA-ANALYSIS-DOCUMENTATION 1
 Documentations on SkilHarvest - Cohort 2 Data Analysis Projects
+[Project Overview](#project-overview)
+[Data Sources](#data-sources)
+[Tools Used](#tools-used)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+[Data Analysis](#data-analysis)
+[Result / Findings](#result-findings)
 ## Project Overview
 ## Data Sources
 ## Tools Used
