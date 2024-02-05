@@ -15,7 +15,13 @@ Create a list of your outline for easy navigation
 [Result / Findings](#result-findings)
 
 **To bold characters**
-To add emoji: Emoji name e.g :Smile will add the smile emoji
+
+To add paragraph, leave a line space
+
+To add emoji: Emoji name e.g 
+:Smile 
+will add the smile emoji
+
 ## Project Overview
 ## Data Sources
 ## Tools Used
