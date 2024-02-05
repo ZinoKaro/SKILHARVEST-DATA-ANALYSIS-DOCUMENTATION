@@ -18,12 +18,15 @@ Create a list of your outline for easy navigation
 
 To add paragraph, leave a line space
 
-To add emoji: Emoji name e.g 
+To add emoji: Emoji name e.g :smile😄  will add the smile emoji
 
-:smile 
+Always upload a file before inputting it in a documentation
 
-will add the smile emoji
+To underline a text, add 3 dash or hyphen --- under the text
 
+e.g TIPS
+    ---
+    
 ## Project Overview
 ## Data Sources
 ## Tools Used
