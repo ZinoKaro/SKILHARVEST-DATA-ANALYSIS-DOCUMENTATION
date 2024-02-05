@@ -20,7 +20,7 @@ To add paragraph, leave a line space
 
 To add emoji: Emoji name e.g 
 
-:Smile 
+:smile 
 
 will add the smile emoji
 
