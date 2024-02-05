@@ -1,5 +1,6 @@
 # SKILHARVEST-DATA-ANALYSIS-DOCUMENTATION 1
 Documentations on SkilHarvest - Cohort 2 Data Analysis Projects
+Create a list of your outline for easy navigation
 
 [Project Overview](#project-overview)
 
@@ -13,6 +14,8 @@ Documentations on SkilHarvest - Cohort 2 Data Analysis Projects
 
 [Result / Findings](#result-findings)
 
+**To bold characters**
+To add emoji: Emoji name e.g :Smile will add the smile emoji
 ## Project Overview
 ## Data Sources
 ## Tools Used
