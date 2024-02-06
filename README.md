@@ -23,11 +23,14 @@ To add emoji: Emoji name e.g :smile😄  will add the smile emoji
 Always upload a file before inputting it in a documentation
 
 To underline a text, add 3 dash or hyphen --- under the text
+e.g 
 
-e.g TIPS
-    ---
-    
 ## Project Overview
+---
+
+To italicize characters: *character*
+
+
 ## Data Sources
 ## Tools Used
 - Bullet point 1
