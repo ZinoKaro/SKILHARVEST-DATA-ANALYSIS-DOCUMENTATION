@@ -26,8 +26,16 @@ The primary objective of this project is to provide stakeholders, business analy
 - File Format: Comma-separated values (CSV).
 - File Name: SkilHarvest_Stationary_Supplies.csv
 ![](SkilHarvest_Stationary_Supplies.csv)
+
 ## Tools Used
+- **Ms Excel**: For Data Cleaning, Exploration and aggregation. [Download Here](
+- **Google Sheet**: For Collaborative Analysis and Cloud Based Storage. [Download Here](
+- **Ms SQL Server**: For Advanced Data Transformation and Modeling, Data Storage and Integration with Power BI. [Download Here](
+- **PowerBI**: For Interactive Data Visualization and Integration with Other Microsoft Tools. [Download Here](
+- **Ms PowerPoint**: For Storytelling and Presentation. [Download Here](
+  
 ## Data Cleaning and Preparation
+
 ## Data Analysis
 ```
 Input code here
