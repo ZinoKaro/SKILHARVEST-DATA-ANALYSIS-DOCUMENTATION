@@ -1,6 +1,8 @@
-# 
-Documentations on SkilHarvest - Cohort 2 Data Analysis Projects
-Create a list of your outline for easy navigation
+# SKILHARVEST STATIONARY SUPPLIES
+SkilHarvest Stationary Supplies Data Analysis project aims to extract valuable insights and trends, shedding light on the dynamics of the stationary supplies market.
+In this endeavor, we delve into a comprehensive exploration of the provided dataset from SkilHarvest.
+
+## CONTENT OUTLINE
 
 [Project Overview](#project-overview)
 
@@ -14,30 +16,17 @@ Create a list of your outline for easy navigation
 
 [Result / Findings](#result-findings)
 
-**To bold characters**
-
-To add paragraph, leave a line space
-
-To add emoji: Emoji name e.g :smile😄  will add the smile emoji
-
-Always upload a file before inputting it in a documentation
-
-To underline a text, add 3 dash or hyphen --- under the text
-e.g 
-
 ## Project Overview
----
+The SkilHarvest Stationary Supplies Data Analysis project aims to unravel the intricate details of the stationary supplies market through a comprehensive exploration of a curated dataset from SkilHarvest Stationary Supplies. This endeavor combines data science methodologies, exploratory data analysis (EDA), and insightful visualizations to extract meaningful patterns, trends, and actionable insights.
 
-To italicize characters: *character*
-
+The primary objective of this project is to provide stakeholders, business analysts, and enthusiasts with a detailed understanding of the dynamics within SkilHarvest Stationary Supplies. Through data-driven analysis, we seek to answer key questions about product popularity, customer behavior, and market trends, ultimately contributing valuable knowledge to the business strategy.
 
 ## Data Sources
+- Data Source: SkilHarvest Stationary Supplies internal sales and customer database.
+- File Format: Comma-separated values (CSV).
+- File Name: SkilHarvest_Stationary_Supplies.csv
+![](SkilHarvest_Stationary_Supplies.csv)
 ## Tools Used
-- Bullet point 1
-- e.g Ms Excel for Data Cleaning [Download Here](https:/www.microsoft.com) 
-- Bullet point 2
-1. Numbered point 1
-2. Numbered point 2
 ## Data Cleaning and Preparation
 ## Data Analysis
 ```
@@ -45,5 +34,6 @@ Input code here
 
 ```
 ## Result / Findings
+Add file
 ![](uploaded file)
 
