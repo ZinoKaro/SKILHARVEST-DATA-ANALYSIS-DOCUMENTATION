@@ -28,13 +28,14 @@ The primary objective of this project is to provide stakeholders, business analy
 ![](SkilHarvest_Stationary_Supplies.csv)
 
 ## Tools Used
-- **Ms Excel**: For Data Cleaning, Exploration and aggregation. [Download Here](
-- **Google Sheet**: For Collaborative Analysis and Cloud Based Storage. [Download Here](
-- **Ms SQL Server**: For Advanced Data Transformation and Modeling, Data Storage and Integration with Power BI. [Download Here](
-- **PowerBI**: For Interactive Data Visualization and Integration with Other Microsoft Tools. [Download Here](
-- **Ms PowerPoint**: For Storytelling and Presentation. [Download Here](
+- **Ms Excel**: For Data Cleaning, Exploration and aggregation. [Download Here](https://www.microsoft.com/excel)
+- **Google Sheet**: For Collaborative Analysis and Cloud Based Storage. [Download Here](https://www.google.com/sheets/about/)
+- **Ms SQL Server**: For Advanced Data Transformation and Modeling, Data Storage and Integration with Power BI. [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- **PowerBI**: For Interactive Data Visualization and Integration with Other Microsoft Tools. [Download Here](https://powerbi.microsoft.com)
+- **Ms PowerPoint**: For Storytelling and Presentation. [Download Here](https://www.microsoft.com/PowerPoint)
   
 ## Data Cleaning and Preparation
+
 
 ## Data Analysis
 ```
