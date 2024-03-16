@@ -25,7 +25,8 @@ The primary objective of this project is to provide stakeholders, business analy
 - Data Source: SkilHarvest Stationary Supplies internal sales and customer database.
 - File Format: Comma-separated values (CSV).
 - File Name: SkilHarvest_Stationary_Supplies.csv
-![](SkilHarvest_Stationary_Supplies.csv)
+
+![SkilHarvest_Stationary_Supplies](SkilHarvest_Stationary_Supplies.csv)
 
 ## Tools Used
 - **Ms Excel**: For Data Cleaning, Exploration and aggregation. [Download Here](https://www.microsoft.com/excel)
