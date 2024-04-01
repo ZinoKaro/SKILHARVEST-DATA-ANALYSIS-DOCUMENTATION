@@ -70,7 +70,7 @@ Sales of items that ends with 'sk', including their region, sales rep and year
 ## Result / Findings
 QUERY RESULTS
 
-- ![Query 1](1)
+ ![Query 1]("1.jpg")
 - ![Query 2](2)
 - ![Query 3](3)
 - ![Query 4](4)
