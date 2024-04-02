@@ -47,11 +47,13 @@ Sales of Binder items and Pencil in 2015
 ```
 <div align="center"> <img src="1.jpg"> </div>
 
+
 Sales in Central and East region in 2014
 ```
 =QUERY(A:H, "SELECT A,F,H WHERE (A = 'East' OR A = 'Central') AND F = 2014" , 1)
 ```
 <div align="center"> <img src="2.jpg"> </div>
+
 
 Sales in August and September 2014
 ```
@@ -59,11 +61,13 @@ Sales in August and September 2014
 ```
 <div align="center"> <img src="3.jpg"> </div>
 
+
 Sales of items that starts with Pen, including their region, sales rep and year
 ```
 =QUERY(A:H, "SELECT A, B, C, F, H WHERE C LIKE 'Pen%'", 1)
 ```
 <div align="center"> <img src="4.jpg"> </div>
+
 
 Sales of items that ends with 'sk', including their region, sales rep and year
 ```
@@ -73,14 +77,5 @@ Sales of items that ends with 'sk', including their region, sales rep and year
 
 
 ## Result / Findings
-QUERY RESULTS
 
-![Query 1](1.jpg)
-- ![Query 2](2)
-- ![Query 3](3)
-- ![Query 4](4)
-- ![Query 5](5)
-
-Add file
-![](uploaded file)
 
